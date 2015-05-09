@@ -1,3 +1,7 @@
 Start:  Mon, 4 May 2015 23:10:00 -0600 
 End: Mon, 4 May 2015 23:16:14 -0600 
 Tasks: Initial commit
+
+Start: Fri, 8 May 2015 12:30:00 -0600 
+End: Fri, 8 May 2015 14:50:57 -0600 
+Tasks: AJAX request and display working
