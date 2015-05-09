@@ -5,3 +5,7 @@ Tasks: Initial commit
 Start: Fri, 8 May 2015 12:30:00 -0600 
 End: Fri, 8 May 2015 14:50:57 -0600 
 Tasks: AJAX request and display working
+
+Start: 8 May 2015 20:00:00 -0600 
+End: Sat, 9 May 2015 15:23:49 -0600 
+Tasks: Done with everything
